@@ -1,0 +1,9 @@
+.div1234 {
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+    background-color: rgb(143, 157, 170);
+
+}
